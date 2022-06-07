@@ -28,6 +28,6 @@
     <a href="https://www.behance.net/guiakinyele" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   </div>
   
-  ![Snake animation](https://github.com/gui-akinyele/gui-akinyele/blob/output/github-contribuition-grid-snake.svg)
+  ![Snake animation](https://github.com/gui-akinyele/gui-akinyele/blob/output/github-contribution-grid-snake.svg)
   
   
