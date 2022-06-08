@@ -1,8 +1,8 @@
 ### Olá! Sou Guilherme Akinyele! 👋
 
 - 🔭 Atualmente atuo no ramo de e-commerce e marketplaces, focado em integrações;
-- 🌱 Estudante de Tecnologia da Informação na universidade FATEC São José dos Campos, Tecnologia em Banco de Dados. Conhecimento em tecnologias front-end, como HTML, CSS      e JavaScript;
-- 🧑‍💼 Em busca de experiência, com o objetivo de se capacitar para o mercado, para assim agregar valor para ramo. Conhecimento em tecnologias front-end, como HTML, CSS e       JavaScript. Profissional com perfil voltado para inovação, comprometido, comunicativo, e voltado para resultados.
+- 🌱 Estudante de Sistemas para Internet na Faculdade Digital Descomplica.
+- 💼 Em busca de experiência, com o objetivo de se capacitar para o mercado, para assim agregar valor para ramo. Conhecimento em tecnologias front-end, como HTML, CSS e JavaScript. Profissional com perfil voltado para inovação, comprometido, comunicativo, e voltado para resultados.
 
 ##
 
