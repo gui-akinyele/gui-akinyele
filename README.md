@@ -1,7 +1,7 @@
 ### Olá! Sou Guilherme Akinyele! 👋
 
 - 🔭 Atualmente atuo no ramo de e-commerce e marketplaces, focado em integrações;
-- 🌱 Estudante de Sistemas para Internet na Faculdade Digital Descomplica.
+- 🌱 Estudante de Sistemas para Internet na <a href="https://descomplica.com.br/faculdade/tecnologia/sistemas-para-internet/">Faculdade Digital Descomplica</a>.
 - 💼 Em busca de experiência, com o objetivo de se capacitar para o mercado, para assim agregar valor para ramo. Conhecimento em tecnologias front-end, como HTML, CSS e JavaScript. Profissional com perfil voltado para inovação, comprometido, comunicativo, e voltado para resultados.
 
 ##
