@@ -1,8 +1,8 @@
 ### Olá! Sou Guilherme Akinyele! 👋
 
-- 🔭 Atualmente atuo no ramo de e-commerce e marketplaces, focado em integrações;
+- 🔭 Atualmente atuo como suporte técnico em sistemas de ERP e Hub de integração para Markeplaces e e-commerces;
 - 🌱 Estudante de Sistemas para Internet (Front-end Dev) <a href="https://descomplica.com.br/faculdade/tecnologia/sistemas-para-internet/">Faculdade Digital Descomplica</a>.
-- 💼 Em busca de experiência, com o objetivo de se capacitar para o mercado, para assim agregar valor para ramo. Conhecimento em tecnologias front-end, como HTML, CSS e JavaScript. Profissional com perfil voltado para inovação, comprometido, comunicativo, e voltado para resultados.
+- 💼 Apaixonado por tecnologias web e design de interface. Possuo conhecimentos em HTML, CSS e JavaScript, além de experiência em e-commerce, marketplaces, suporte técnico e implantação de sistemas ERP. Estou em constante busca de novos desafios e oportunidades para evoluir minhas habilidades e me destacar no mercado de trabalho. Acredito que a combinação de habilidades técnicas, paixão pelo que faço e capacidade de resolver problemas são fundamentais para entregar soluções de alta qualidade e eficiência.
 
 ##
 
